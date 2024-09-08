@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="95dc5c7a-980b-4820-83bf-531f4cd8aba2" name="Changes" comment="" />
+    <list default="true" id="95dc5c7a-980b-4820-83bf-531f4cd8aba2" name="Changes" comment="Vetores">
+      <change beforePath="$PROJECT_DIR$/src/Atividade01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Gustavomullersouza"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gustavomullersouza/Atividade03Vetores.git",
+    "accountId": "e21c9a64-d836-45d0-9d35-e3c346661821"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -24,6 +48,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/gusta/IdeaProjects/Atividade03Vetores/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -45,12 +73,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725766912363</updated>
-      <workItem from="1725766913419" duration="13000" />
+      <workItem from="1725766913419" duration="5064000" />
     </task>
+    <task id="LOCAL-00001" summary="Vetores">
+      <option name="closed" value="true" />
+      <created>1725767019939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725767019939</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Vetores">
+      <option name="closed" value="true" />
+      <created>1725769883064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725769883064</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vetores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vetores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

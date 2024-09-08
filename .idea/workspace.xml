@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95dc5c7a-980b-4820-83bf-531f4cd8aba2" name="Changes" comment="Vetores">
-      <change afterPath="$PROJECT_DIR$/src/Atividade03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atividade04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,8 @@
     "Application.Atividade01.executor": "Run",
     "Application.Atividade02.executor": "Run",
     "Application.Atividade03.executor": "Run",
+    "Application.Atividade03Alternativo.executor": "Run",
+    "Application.Atividade04.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725766912363</updated>
       <workItem from="1725766913419" duration="5064000" />
-      <workItem from="1725823610561" duration="4308000" />
+      <workItem from="1725823610561" duration="4617000" />
     </task>
     <task id="LOCAL-00001" summary="Vetores">
       <option name="closed" value="true" />
@@ -121,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725824542365</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Vetores">
+      <option name="closed" value="true" />
+      <created>1725829220721</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725829220721</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Vetores">
+      <option name="closed" value="true" />
+      <created>1725829328542</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725829328542</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

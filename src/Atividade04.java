@@ -14,7 +14,9 @@ public class Atividade04 {
         System.out.println("Digite o terceiro numero: ");
         numeros[2] = sc.nextInt();
 
-        mediaFinal = numeros[0] + numeros[1] + ((double)numeros[2] / 3);
+        mediaFinal = (numeros[0] + numeros[1] + (double)numeros[2]) / 3;
+
+        System.out.println("Os valores defidos são : " + numeros[0] + ", " + numeros[1] + ", " + numeros[2] + ", " + mediaFinal);
 
 
     }
